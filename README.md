@@ -14,3 +14,5 @@ and type:
 npm run dev
 ```
 When started it will give you a local link to acess the program.
+
+ ![Image](./git_images/8video_image.png) 
